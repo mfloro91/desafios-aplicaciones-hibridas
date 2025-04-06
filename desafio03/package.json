@@ -1,0 +1,17 @@
+{
+  "name": "desafio03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Flor Rossi",
+  "license": "ISC",
+  "description": "Desafio número 3 de la materia aplicaciones híbridas. Se busca crear un servidor con lo visto en clase.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfloro91/desafios-aplicaciones-hibridas.git"
+  }
+}

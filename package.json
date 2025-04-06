@@ -1,0 +1,13 @@
+{
+  "name": "desafio02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Flor Rossi",
+  "license": "ISC",
+  "description": "Desafio número 2 de la materia Aplicaciones Híbridas. Se ponen en práctica la creación de un proyecto con Node.JS, la utilización de github y la exportación e importación utilizando módulos."
+}

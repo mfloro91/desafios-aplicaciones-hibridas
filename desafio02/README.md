@@ -4,5 +4,5 @@ Luego la exporto con Common JS y la importo con ES Module.
 Imprimo con console.log el resultado de la operación.
 
 ## Tabla de Contenidos
-- [Función Número Primo](#commonJS)
-- [Importación e impresión](#module)
+1. Función Número Primo (Ir a commonJS.cjs)
+2. Importación e impresión (Ir a module.mjs)

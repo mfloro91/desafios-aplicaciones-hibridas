@@ -1,1 +1,1 @@
-# desaf-os-aplicaciones-h-bridas
+# desafios-aplicaciones-hibridas

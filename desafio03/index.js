@@ -28,4 +28,4 @@ const platformOS = os.platform();
 
 export {platformOS};
 
-
+console.log('probando Nodemon');

@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mfloro91/desafios-aplicaciones-hibridas.git"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
   }
 }

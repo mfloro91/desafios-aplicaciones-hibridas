@@ -2,10 +2,13 @@
 
 import { readFile } from "fs/promises"
 
+let alumno = [];
+
 async function readFiles() {
     try {
         const data = await readFile('datosAlumno.txt', 'utf8');
-        console.log(data)
+        alumno.push(data)
+        console.log(alumno);
     } catch (err) {
         console.log(err)
     }
@@ -13,18 +16,16 @@ async function readFiles() {
 
 readFiles()
 
+export {alumno};
+
 // Devolviendo info del Sistema Operativo
 
 import os from "os"
 
-const arquitecturaOS = os.arch();
-const cpuOS = os.cpus();
+//const arquitecturaOS = os.arch();
+//const cpuOS = os.cpus();
 const platformOS = os.platform();
 
-console.log(arquitecturaOS, cpuOS, platformOS);
-
-
-
-
+export {platformOS};
 
 
